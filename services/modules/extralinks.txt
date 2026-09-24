@@ -1,0 +1,29 @@
+сам запрет:
+https://github.com/bol-van/zapret2
+https://github.com/bol-van/zapret
+4search https://search.nixos.org/packages?channel=26.05&query=zapret#show=zapret
+https://github.com/flowseal/zapret-discord-youtube
+https://github.com/Sergeydigl3/zapret-discord-youtube-linux
+
+
+otherdotsfiles: https://github.com/ilyamiro/serpantinum
+
+
+https://github.com/bol-van/zapret/issues/623
+https://github.com/bol-van/zapret/discussions/1594
+https://github.com/DADA30000/dotfiles/blob/main/stuff/system/sing-box/zapret-flags
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/bol-van/zapret2/discussions/287&ved=2ahUKEwiIvJWxy4eXAxXOJRAIHTG2AEwQFnoECBwQAQ&usg=AOvVaw3d4RETyKJH9eCVfvNjZB0S
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/NixOS/comments/1olt73z/how_can_i_use_zapret_or_any_other_dpi_spoof_on_nix/%3Ftl%3Dru&ved=2ahUKEwiIvJWxy4eXAxXOJRAIHTG2AEwQFnoECDgQAQ&usg=AOvVaw1SIZl4zE2XJHeSCY9VFYye
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/bol-van/zapret/discussions/2100&ved=2ahUKEwiIvJWxy4eXAxXOJRAIHTG2AEwQFnoECD0QAQ&usg=AOvVaw0SIPlKgxGjQ1pJ5ntzC2g4
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/Sergeydigl3/zapret-discord-youtube-linux/issues/254&ved=2ahUKEwiIvJWxy4eXAxXOJRAIHTG2AEwQFnoECDIQAQ&usg=AOvVaw18SB6whYt72Iu0eJsObyeJ
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/bol-van/zapret/discussions/1623&ved=2ahUKEwiIvJWxy4eXAxXOJRAIHTG2AEwQFnoECDYQAQ&usg=AOvVaw2c6E427HlJxdgfNmR5AJ7k
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ntc.party/t/zapret-%25D0%25BD%25D0%25B0-nixos/11703&ved=2ahUKEwiIvJWxy4eXAxXOJRAIHTG2AEwQFnoECDEQAQ&usg=AOvVaw3uShygB1KY7cBkwKITko7j
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/NixOS/comments/1kih4rm/need_help_with_zapret_setup/%3Ftl%3Dru&ved=2ahUKEwiIvJWxy4eXAxXOJRAIHTG2AEwQFnoECDUQAQ&usg=AOvVaw3yg5PwU20mHaqy6zb7rjB-
+https://github.com/DDMprime/nixos-config/blob/main/modules/services/zapret.nix
+https://www.reddit.com/r/NixOS/comments/1olt73z/how_can_i_use_zapret_or_any_other_dpi_spoof_on_nix/?tl=ru
+https://github.com/bol-van/zapret/discussions/2100
+https://github.com/bol-van/zapret/discussions/1903
+
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVWXfFG5hFjUc8z6AbWlrwSetnX3dZ76IDdNmBRdxN9PPKcRe0kmA5-DmWQ-XELqj2-76xZno6uFXWW8D4eHN0VJpYCGN89RekKSaTfvszT4bGg6SlwdqVhhaXn9G3NS2PHngUgg&ved=2ahUKEwiFvvmHroeXAxX6IxAIHV0_HdwQFnoECDMQAQ&uoh=2&usg=AOvVaw1jNhW7fLZ551RQssPoD_Vq
+
+https://github.com/bol-van/zapret/discussions/836
